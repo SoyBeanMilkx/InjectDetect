@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Check_env" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+    </style>
+
+    <style name="Theme.Check_env" parent="Base.Theme.Check_env" />
+</resources>
