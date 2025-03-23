@@ -1,5 +1,5 @@
 # InjectDetect
-检测app是否被frida/xposed注入
+检测主要针对frida和xposed，当然一些未做处理的普通注入也可以检测到，可能会存在一些bug
 
 ## 检测点：
 
